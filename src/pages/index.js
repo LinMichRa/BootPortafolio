@@ -17,10 +17,9 @@ export default function Home() {
                 <h1>Linda Michell Ramírez</h1>
                 <h3>FullStack Developer Student</h3>
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                  Molestiae atque ullam perferendis harum, nisi porro voluptate,
-                  iste consequuntur enim reprehenderit architecto consectetur cum?
-                  Totam ad molestias natus illum illo officia.
+                  FullStack Developer student dedicated to learn new things about technology. Furthermore, i'm a University
+                  student, specifically from system engineering, i'm constantly practicing through activities from the Bootcamp and
+                  from my University. I would like to get a job, in order to offer my experience.
                 </p>
                 <Link href="/hireme" className="btn btn-outline-light">
                   Hire Me

@@ -36,11 +36,11 @@ const github = ({ user, statusCode }) => {
   );
 };
 
-Github.proptypes = {};
+github.proptypes = {};
 
 export async function getServerSideProps() {
   const res = await fetch(
-    "https://api.github.com/users/inesmariao"
+    "https://api.github.com/users/LinMichRa"
   );
   const data = await res.json();
 
@@ -54,4 +54,4 @@ export async function getServerSideProps() {
   };
 }
 
-export default Github;
+export default github;

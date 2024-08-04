@@ -32,18 +32,18 @@ export const skills = [
   
   export const experiences = [
     {
-      title: "Software developer at Microsoft",
+      title: "Central University student",
       description:
-        "Microsoft.com",
-      from: 2000,
-      to: 2005,
+        "System engineering student",
+      from: 2022,
+      to: 2026,
     },
     {
-      title: "Software developer at Google",
+      title: "FullStack Developer Bootcamp",
       description:
-        "Google.com",
-      from: 2005,
-      to: 2007,
+        "MINTIC Bootcamp",
+      from: 2024,
+      to: 2024,
     },
     {
       title: "Software developer at SpaceX",
@@ -55,40 +55,22 @@ export const skills = [
   
   export const projects = [
     {
-      name: "Awesome Website 1",
+      name: "Gallery",
       description:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-      image: "portfolio1.png",
+        "Project dedicated to show different images about anime",
+      image: "Gallery.png",
     },
     {
-      name: "Awesome Website 2",
+      name: "Random User",
       description:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-      image: "portfolio1.png",
+        "Project about a random profile showing personal information",
+      image: "Act2.png",
     },
     {
-      name: "Awesome Website 3",
+      name: "Login with Context API",
       description:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-      image: "portfolio1.png",
-    },
-    {
-      name: "Awesome Website 4",
-      description:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-      image: "portfolio1.png",
-    },
-    {
-      name: "Awesome Website 5",
-      description:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-      image: "portfolio1.png",
-    },
-    {
-      name: "Awesome Website 6",
-      description:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
-      image: "portfolio1.png",
+        "Project with funcionally about login and log out",
+      image: "Act3.png",
     },
   ];
   
